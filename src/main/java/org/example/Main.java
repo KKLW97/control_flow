@@ -18,5 +18,4 @@ public class Main {
         } else {
             System.out.println("That's not a number");;
         }
-    }
 }
